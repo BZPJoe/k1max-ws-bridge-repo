@@ -1,6 +1,6 @@
 name: K1/K1 Max WebSocket to MQTT Bridge
 version: "0.2.1"
-slug: k1max_ws_bridge
+slug: k1max-ws-bridge
 description: Connects to a Creality K1/K1 Max WebSocket and exposes temps, progress, and time remaining via MQTT Discovery.
 url: "https://github.com/BZPJoe/k1max-ws-bridge-repo"
 arch:
